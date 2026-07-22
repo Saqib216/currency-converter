@@ -4,7 +4,7 @@ A real-time currency conversion web app built with vanilla HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-Visit: [saqib-curr.netlify.app](https://saqib-curr.netlify.app)
+Visit: [currency-converter-sleek.vercel.app](https://currency-converter-sleek.vercel.app/)
 
 ## 📋 Project Overview
 
@@ -26,7 +26,7 @@ A simple, clean web app that lets users convert currency amounts instantly. It f
 - **API:** Currency exchange rates from `cdn.jsdelivr.net/npm/@fawazahmed0/currency-api`
 - **Flags:** Country flags from `flagsapi.com`
 - **Icons:** Font Awesome for arrow icon
-- **Hosting:** Netlify
+- **Hosting:** Vercel
 
 ## 📁 Project Structure
 
